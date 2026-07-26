@@ -105,14 +105,6 @@ Informatics Student • Software Engineer • Web Developer
 
 ---
 
-## ⚡ Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux"/>
-
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -123,7 +115,7 @@ Informatics Student • Software Engineer • Web Developer
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com](https://linkedin.com/in/raihanabinugroho22">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
