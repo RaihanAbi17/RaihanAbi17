@@ -1,20 +1,56 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">Hi 👋, I'm Raihan Abi Nugroho</h1>
-
-<h3 align="center">
-Informatics Student • Software Engineer • Web Developer
-</h3>
-
-<p align="center">
-Passionate about building clean, scalable, and user-friendly applications.
-</p>
+<!-- ================= HEADER ================= -->
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering;Full+Stack+Web+Developer;C%2B%2B+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:58A6FF,100:00C9A7&text=Raihan%20Abi%20Nugroho&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=35"/>
 
 </p>
+
+<h2 align="center">
+
+Software Engineer • Web Developer • Informatics Student
+
+</h2>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineer;Full+Stack+Developer;C%2B%2B+Programmer;Always+Learning+New+Things"/>
+
+</p>
+
+---
+
+<table>
+
+<tr>
+
+<td width="55%">
+
+## 👨‍💻 About Me
+
+🎓 Informatics Student
+
+💻 Passionate about Software Engineering
+
+🌱 Learning React, Node.js, Laravel
+
+🚀 Love Building Real Projects
+
+📚 Exploring Clean Code & Design Patterns
+
+🎯 Goal: Become Full Stack Engineer
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -22,33 +58,9 @@ Passionate about building clean, scalable, and user-friendly applications.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,react,nodejs,express,mysql,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,bootstrap,react,nodejs,express,mysql,git,github,vscode,figma"/>
 
 </p>
-
----
-
-## 👨‍💻 About Me
-
-```text
-🎓 Informatics Student
-
-💻 Focus :
-   • Software Engineering
-   • Web Development
-   • Backend Development
-
-🌱 Currently Learning
-   React.js
-   Node.js
-   Express.js
-   Laravel
-
-🎯 Goal
-   Become a Full Stack Software Engineer
-
-📍 Indonesia
-```
 
 ---
 
@@ -56,9 +68,9 @@ Passionate about building clean, scalable, and user-friendly applications.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaihanAbi17&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RaihanAbi17&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanAbi17&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanAbi17&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -74,50 +86,42 @@ Passionate about building clean, scalable, and user-friendly applications.
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RaihanAbi17&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RaihanAbi17&theme=tokyonight&margin-w=20&margin-h=20&no-frame=true&column=4"/>
 
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| 💪 FitPlanner | JavaScript | Gym management website |
-| 🌐 Responsive Website | HTML CSS | Responsive landing page |
-| 📚 Data Structure | C++ | Selection, Merge, Quick Sort |
-| 💳 Queue Simulation | C++ | Queue simulation system |
+<div align="center">
 
----
+| 🚀 Project | 💻 Tech | ⭐ Description |
+|------------|---------|---------------|
+| 🌐 Responsive Website | HTML CSS JS | Modern Landing Page |
+| 💪 Fit Planner | JavaScript | Gym Management Website |
+| 📚 Data Structure | C++ | Merge, Quick & Selection Sort |
+| 💳 Queue Simulation | C++ | Queue System |
 
-## 📈 Current Focus
-
-- Building Full Stack Web Applications
-
-- Learning REST API
-
-- Clean Code
-
-- Object-Oriented Programming
-
-- Database Design
-
-- Software Architecture
+</div>
 
 ---
 
-## ⚡ Development Tools
+## 📈 Current Learning
 
-<p align="center">
+🟢 React
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux"/>
+🟢 Laravel
 
-</p>
+🟢 REST API
+
+🟢 Express.js
+
+🟢 Software Architecture
 
 ---
 
@@ -126,11 +130,15 @@ Passionate about building clean, scalable, and user-friendly applications.
 <p align="center">
 
 <a href="mailto:raihanabinugroho11@gmail.com">
+
 <img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://linkedin.com">
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 </p>
@@ -139,12 +147,18 @@ Passionate about building clean, scalable, and user-friendly applications.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RaihanAbi17&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=RaihanAbi17&style=for-the-badge&color=blue"/>
 
 </p>
 
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for Visiting ⭐
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:58A6FF,100:6A5ACD&height=120&section=footer"/>
 
 </p>
