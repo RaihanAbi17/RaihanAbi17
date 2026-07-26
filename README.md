@@ -1,4 +1,10 @@
 ## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaihanAbi17&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanAbi17&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=RaihanAbi17&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,vscode" />
+</p>
 
 <!--
 **RaihanAbi17/RaihanAbi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
