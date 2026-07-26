@@ -61,3 +61,11 @@
 Email : raihanabinugroho11@gmail.com
 
 LinkedIn : Your LinkedIn
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;C%2B%2B+Developer;Web+Developer;Always+Learning+New+Things"/>
+
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaihanAbi17&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mysql,git,vscode,html,css"/>
