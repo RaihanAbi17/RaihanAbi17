@@ -5,13 +5,7 @@
 <h3 align="center">
 Informatics Student • Software Engineer • Web Developer
 </h3>
-
 <p align="center">
-Passionate about building clean, scalable, and user-friendly applications.
-</p>
-
-<p align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering;Full+Stack+Web+Developer;C%2B%2B+Enthusiast;Always+Learning+Something+New"/>
 
 </p>
