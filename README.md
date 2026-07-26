@@ -1,101 +1,127 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Raihan Abi Nugroho</h1>
 
 <h3 align="center">
-Informatics Student • Web Developer • C++ Programmer
+Informatics Student • Software Engineer • Web Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=4FC3F7&lines=Welcome+to+my+GitHub!;Web+Developer;C%2B%2B+Programmer;Always+Learning+New+Things" />
+Passionate about building clean, scalable, and user-friendly applications.
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering;Full+Stack+Web+Developer;C%2B%2B+Enthusiast;Always+Learning+Something+New"/>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 Tech Stack
 
-<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,react,nodejs,express,mysql,git,github,vscode,figma"/>
+
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```text
 🎓 Informatics Student
 
-💻 Passionate about Web Development
+💻 Focus :
+   • Software Engineering
+   • Web Development
+   • Backend Development
 
-🌱 Currently learning React, Node.js & Laravel
+🌱 Currently Learning
+   React.js
+   Node.js
+   Express.js
+   Laravel
 
-📚 Interested in Software Engineering
-
-🚀 Love solving algorithms & building projects
+🎯 Goal
+   Become a Full Stack Software Engineer
 
 📍 Indonesia
+```
 
 ---
 
-# 🚀 Tech Stack
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,mysql,git,github,vscode,figma"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaihanAbi17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanAbi17&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 🔥 Contribution Streak
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=RaihanAbi17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanAbi17&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=RaihanAbi17&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🏆 GitHub Trophy
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=RaihanAbi17&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RaihanAbi17&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+## 📌 Featured Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| 💪 FitPlanner | JavaScript | Gym management website |
+| 🌐 Responsive Website | HTML CSS | Responsive landing page |
+| 📚 Data Structure | C++ | Selection, Merge, Quick Sort |
+| 💳 Queue Simulation | C++ | Queue simulation system |
+
+---
+
+## 📈 Current Focus
+
+- Building Full Stack Web Applications
+
+- Learning REST API
+
+- Clean Code
+
+- Object-Oriented Programming
+
+- Database Design
+
+- Software Architecture
+
+---
+
+## ⚡ Development Tools
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RaihanAbi17&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux"/>
 
 </p>
 
 ---
 
-# 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌐 Responsive Website | Landing page menggunakan HTML, CSS, JavaScript |
-| 💪 Fit Planner | Aplikasi fitness sederhana |
-| 📚 Data Structure | Selection Sort, Merge Sort, Quick Sort |
-| 💳 Queue Simulation | Simulasi sistem antrean pembayaran |
-
----
-
-# 📖 Currently Learning
-
-- React
-- Node.js
-- Laravel
-- REST API
-- MySQL
-
----
-
-# 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -113,6 +139,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanAbi17&
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RaihanAbi17&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=RaihanAbi17&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
 
 </p>
