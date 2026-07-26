@@ -69,3 +69,4 @@ LinkedIn : Your LinkedIn
 </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=RaihanAbi17&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mysql,git,vscode,html,css"/>
+![](https://komarev.com/ghpvc/?username=RaihanAbi17&color=blue)
